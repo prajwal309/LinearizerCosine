@@ -1,0 +1,1 @@
+This program will linearize the trigonometric function in terms of cosine.
